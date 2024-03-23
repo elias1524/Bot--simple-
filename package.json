@@ -1,7 +1,7 @@
 {
-  "name": "NyanCatBot-MD",
+  "name": "Goku-Black-Bot-MD",
   "version": "1.0.0",
-  "description": "Si tu quisieras esta noche ir a bailar un chachachá,  yo te puedo enamorar",
+  "description": "Goku-Black-Bot-MD",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -14,16 +14,16 @@
     "test": "node test.js",
     "test2": "nodemon index.js"
   },
-  "homepage": "https://github.com/ALBERTO9883/NyanCatBot-MD",
+  "homepage": "",
   "author": {
-    "name": "Alberto Acosta"
+    "name": "Ivan"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALBERTO9883/NyanCatBot-MD.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/ALBERTO9883/NyanCatBot-MDissues"
+    "url": ""
   },
   "keywords": [
     "termux-whatsapp-bot",
