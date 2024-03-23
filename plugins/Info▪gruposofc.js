@@ -1,6 +1,6 @@
 let handler = async (m, { conn }) => {
 let msg = `
-*👋Hola @${m.sender.split`@`[0]} aquí tienes los grupos oficiales de NyanCatBot-MD.*
+*👋Hola @${m.sender.split`@`[0]} aquí tienes los grupos oficiales de Goku-Black-Bot-MD.*
 
    *_╭━━━⊜ ⌊• 1 •⌉_*
   *_┃🎋❏https://chat.whatsapp.com/GkajTNHTklT7RJ1bzsJYNK_*
