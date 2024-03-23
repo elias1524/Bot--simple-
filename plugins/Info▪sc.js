@@ -18,9 +18,9 @@ let buttonMessage= {
 'title': ``,
 'body': global.author,
 'thumbnail': global.imgmenu,
-'sourceUrl': 'https//wa.me/50499698072' }},
+'sourceUrl': 'https//wa.me/595992809980' }},
 'caption': texto1,
-'footer': '\nAmo mucho a mi bebé Ashly⚘',
+'footer': '\🇵🇾',
 'buttons':[
 {buttonId: `${usedPrefix}menu`, buttonText: {displayText: 'Menú 📒'}, type: 1}, 
 {buttonId: `${usedPrefix}infobot`, buttonText: {displayText: 'Info 📌'}, type: 1}],
