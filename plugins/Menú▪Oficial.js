@@ -32,7 +32,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-*┏━「🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ-MD🍁⃨፝⃕✰」━⊜*
+*┏━「Goku-Black-Bot-MD」━⊜*
 ┃⋄ 🕒 *Hora*: %time
 ┃⋄ 🗓 *Fecha*: %date
 ┃⋄ 📅 *Día*: %week
