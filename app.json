@@ -1,21 +1,21 @@
 {
-  "name": "NyanCatBot",
-  "description": "Me gusta tocar el piano...ฅ^•ﻌ•^ฅ",
-  "repository": "https://github.com/ALBERTO9883/NyanCatBot-MD",
-  "logo": "https://github.com/ALBERTO9883/NyanCatBot-MD",
+  "name": "Goku-Black-Bot-MD",
+  "description": "Me gusta Programar cosas",
+  "repository": "",
+  "logo": "",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
   {
-    "url": "heroku/nodejs"
+    "url": ""
   },
   {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    "url": ""
   },
   {
-    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    "url": ""
   },
   {
-    "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    "url": ""
   }    
  ]
 }
