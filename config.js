@@ -5,11 +5,11 @@ import fs from 'fs'
  
 //• ↳ᏢϴΝ ᏞϴՏ ΝႮ́ᎷᎬᎡϴՏ ϘႮᎬ ϘႮᏆᎬᎡᎪՏ
 global.owner = [
-  ['50499698072', '۪〬.࠭⤿ 👑 ⋅ Aʟʙᴇʀᴛᴏ', true],
-  ['19045209846', '۪〬.࠭⤿ 👤 ⋅ LevelUp㋡', true],
-  ['50246028932', '۪〬.࠭⤿ 👤 ⋅ SinNombre', true],
-  ['50232239315', '۪〬.࠭⤿ 👤 ⋅ Xavi', true],
-  ['573012949069', '۪〬.࠭⤿ 👤 ⋅ Yorman', true]
+  ['595992809980', '۪〬.࠭⤿ 👑 ⋅ Ivan', true],
+  ['', '', true],
+  ['', '', true],
+  ['', '', true],
+  ['', '', true]
 ]
 global.mods = [] 
 global.prems = [] 
@@ -83,28 +83,28 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.ignyc = '\n🐱◌*̥₊ NʏᴀɴCᴀᴛBᴏᴛ ◌❐🎋༉\n❁ཻུ۪۪ ⎧ ୧ㅤ 𝘈𝘭𝘣𝘦𝘳𝘵𝘰ㅤ🎋⋅ ..⃗.\n' 
-global.wm = '\n🐱◌*̥₊ NʏᴀɴCᴀᴛBᴏᴛ ◌❐🎋༉\n❁ཻུ۪۪ ⎧ ୧ㅤ 𝘈𝘭𝘣𝘦𝘳𝘵𝘰ㅤ🎋⋅ ..⃗.\n' 
-global.botname = '🐱◌*̥₊ NʏᴀɴCᴀᴛBᴏᴛ ◌❐🎋༉'
-global.me = '❁ཻུ۪۪ ⎧ ୧ㅤ 𝘈𝘭𝘣𝘦𝘳𝘵𝘰ㅤ🎋⋅ ..⃗.'
+global.ignyc = 'Black' 
+global.wm = 'Black' 
+global.botname = 'Black'
+global.me = 'Black'
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑻𝑬𝑿𝑻𝑶𝑺◞ • 🥗
-global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌿` 
-global.adanime = `🌸| Aɴɪᴍᴇ Bʏ NʏᴀɴCᴀᴛBᴏᴛ🈴` 
+global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ Goku-Black-Bot-MD🌿` 
+global.adanime = `🌸| Aɴɪᴍᴇ Bʏ Goku-Black-Bot-MD🈴` 
 global.adyoutube = `🍁| Dᴇsᴄᴀʀɢᴀs ᴅᴇ YᴏᴜTᴜʙᴇ🍄` 
-global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌺` 
-global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ NʏᴀɴCᴀᴛ🌸`
-global.adnsfw = `🔞| Nsғᴡ Bʏ NʏᴀɴCᴀᴛBᴏᴛ⭐`
+global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ Black🌺` 
+global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ Black`
+global.adnsfw = `Black`
  //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
  
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 
 //• ↳ ◜𝑺𝑻𝑰𝑪𝑲𝑬𝑹𝑺◞ • 🍃
-global.packname = `handler.exe = {\n  message: {\n    creator: "Alberto Acosta",\n    botname: "NyanCatBot",\n    fecha: "${fecha}"\n         }\n     };`
-global.author = `A\nL\nB\nE\nR\nT\nO\n\n🐢`
+global.packname = `handler.exe = {\n  message: {\n    creator: "Ivan",\n    botname: "Goku-Black-Bot-MD",\n    fecha: "${fecha}"\n         }\n     };`
+global.author = `Elias`
 //╰────────────────────╯	
 	
 
@@ -134,9 +134,9 @@ global.ftextjpg = fs.readFileSync('./storage/image/ftextjpg.jpg')
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.linkgc = 'https://chat.whatsapp.com/D2kkLywqKa0G3IfIm7eNf2'
-global.nycuser = 'https://github.com/ALBERTO9883'
-global.script = 'https://github.com/ALBERTO9883/NyanCatBot-MD'
+global.linkgc = ''
+global.nycuser = ''
+global.script = ''
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 
@@ -211,17 +211,17 @@ global.fpoll = {"key": {"fromMe": false,"participant": "0@s.whatsapp.net","remot
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑨𝑫 𝑫𝑬 𝑮𝑹𝑼𝑷𝑶◞ • 🌄
-global.adgp = { contextInfo: { externalAdReply: { showAdAttribution: true, title: '🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰', body: global.botname, sourceUrl: global.linkgc, thumbnail: miniurl }}}
+global.adgp = { contextInfo: { externalAdReply: { showAdAttribution: true, title: 'Black-Bot-MD', body: global.botname, sourceUrl: global.linkgc, thumbnail: miniurl }}}
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑨𝑫 𝑫𝑬 𝑰𝑵𝑺𝑻𝑨𝑮𝑹𝑨𝑴◞ • 🌄
-global.adig = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: "https://Instagram.com/rlxfly.uw", mediaType: "VIDEO", description: "https://Instagram.com/rlxfly.uw",  title: 'Test', body: `hola`, thumbnail: miniurl, sourceUrl: 'http://s.id/0x404' }}}
+global.adig = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: "", mediaType: "VIDEO", description: "",  title: 'Test', body: `hola`, thumbnail: miniurl, sourceUrl: '' }}}
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 //• ↳ ◜𝑨𝑫 𝑫𝑬 𝒀𝑶𝑼𝑻𝑼𝑩𝑬◞ • 🌄
-global.adyt = { contextInfo: { externalAdReply: { showAdAttribution: true, title: botname, mediaType: 2, previewType: "VIDEO", thumbnail: imgmenu, mediaUrl: 'https://youtu.be/FKVuVneuwtg', sourceUrl: linkgc }}} 
+global.adyt = { contextInfo: { externalAdReply: { showAdAttribution: true, title: botname, mediaType: 2, previewType: "VIDEO", thumbnail: imgmenu, mediaUrl: '', sourceUrl: linkgc }}} 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 //▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
