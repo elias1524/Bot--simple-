@@ -14,16 +14,16 @@
     "test": "node test.js",
     "test2": "nodemon index.js"
   },
-  "homepage": "",
+  "homepage": "xD",
   "author": {
     "name": "Ivan"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/elias1524/Bot--simple-/tree/master"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/elias1524/Bot--simple-/tree/master"
   },
   "keywords": [
     "termux-whatsapp-bot",
