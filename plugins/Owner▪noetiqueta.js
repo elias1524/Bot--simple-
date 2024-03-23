@@ -5,22 +5,21 @@ let handler = async (m, { conn, usedPrefix, isOwner }) => {
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let texto1 = `Hola @${m.sender.split`@`[0]} si necesitas la ayuda de mi creador porfavor escribele al privado\n*-Solo asuntos importantes-*`
 let buttonMessage= {
-'document': { url: `https://github.com/ALBERTO9883` },
+'document': { url: `XD` },
 'mimetype': `application/${document}`,
-'fileName': `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`,
+'fileName': `Goku-Black-Bot-MD`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/ALBERTO9883',
-'mediaType': 2,
+'mediaUrl': '': 2,
 'previewType': 'pdf',
 'title': botname,
-'body': `⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘`,
+'body': `🐺`,
 'thumbnail': global.imgmenu,
-'sourceUrl': 'https://wa.me/50499698072' }},
+'sourceUrl': 'https://wa.me/595992809980' }},
 'mentions': [m.sender],
 'caption': texto1,
 'footer': `\n${global.saludo}`,
@@ -29,11 +28,11 @@ let buttonMessage= {
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })*/
 await conn.reply(m.chat, `Hola @${m.sender.split`@`[0]} si necesitas la ayuda de mi creador porfavor escribele al privado\n*- Solo asuntos importantes -*`, estilo, { mentions: [m.sender] })
-let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ;;;\nFN:ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ\nORG:ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ\nTITLE:\nitem1.TEL;waid=50499698072:+50499698072\nitem1.X-ABLabel:ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ\nX-WA-BIZ-DESCRIPTION:🐱Creador oficial de NyanCatBot.\nX-WA-BIZ-NAME:ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ\nEND:VCARD`
-await conn.sendMessage(m.chat, { contacts: { displayName: 'ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ', contacts: [{ vcard }] }}, {quoted: m})
+let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;ī.am/Ivan🍃/ღᴀ;;;\nFN:ī.am/Ivan🍃/ღᴀ\nORG:ī.am/Ivan🍃/ღᴀ\nTITLE:\nitem1.TEL;waid=595992809980:+595992809980\nitem1.X-ABLabel:ī.am/Ivan🍃/ღᴀ\nX-WA-BIZ-DESCRIPTION:🐺Creador oficial de Goku-Black-Bot-MD.\nX-WA-BIZ-NAME:ī.am/Iván 🍃/ღᴀ\nEND:VCARD`
+await conn.sendMessage(m.chat, { contacts: { displayName: 'ī.am/Ivan🍃/ღᴀ', contacts: [{ vcard }] }}, {quoted: m})
 }
 handler.tags =['info']
 handler.help = ['script']
-handler.customPrefix = /^(@50499698072)$/i
+handler.customPrefix = /^(@595992809980)$/i
 handler.command = new RegExp
 export default handler
