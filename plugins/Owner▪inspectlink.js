@@ -41,7 +41,7 @@ let handler = async (m, { conn, text }) => {
     m.chat,
     `${data.desc}`,
     adnyancat,
-    "Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ Gʀᴀᴛɪs🐱",
+    "Dᴇsᴄʀɪᴘᴄɪᴏ́ɴ Gʀᴀᴛɪs🐺",
     botname,
     script,
     m
